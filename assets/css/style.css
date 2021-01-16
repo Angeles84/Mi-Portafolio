@@ -1,0 +1,208 @@
+body {
+font-family: 'Open Sans', sans-serif;
+}
+
+.morado {
+  background-color: #45B197;
+}
+
+.maia {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 3.5rem;
+}
+
+.menu {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 1.2rem;
+}
+
+header {
+  background-image: url('../img/restauro.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  margin-top: 0;
+  padding-top: 0;
+  padding-bottom: 3rem;
+  border-color: #0000000D;
+  z-index: 99999;
+}
+
+.yo-soy {
+  font-family: 'Oswald', sans-serif;
+  font-weight: lighter;
+}
+
+.angeles {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+}
+
+.titulos {
+  padding-top: 30rem;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.descripcion {
+  color: #373A3C;
+  font-weight: 600;
+  width: 100%;
+  text-align: center;
+  font-size: 1.4rem;
+  line-height: 2;
+}
+
+.parrafo1 {
+  color: #373A3C;
+  font-weight: 400;
+  font-size: 0.9rem;
+  padding-left: 5rem;
+  padding-right: 1rem;
+  padding-top: 2rem;
+  line-height: 2.5;
+}
+
+.parrafo2 {
+  color: #373A3C;
+  font-weight: 400;
+  font-size: 0.9rem;
+  padding-left: 1rem;
+  padding-right: 5rem;
+  padding-top: 2rem;
+  line-height: 2.5;
+}
+
+.parrafo0 {
+  color: #373A3C;
+  font-weight: 400;
+  font-size: 0.9rem;
+  padding-left: 1rem;
+  padding-right: 4rem;
+  padding-top: 2rem;
+  line-height: 2.5;
+}
+
+.parrafo4 {
+  color: #373A3C;
+  font-weight: 400;
+  font-size: 0.9rem;
+  padding-left: 1rem;
+  padding-right: 11rem;
+  padding-top: 2rem;
+  line-height: 2.5;
+}
+
+.parrafo3 {
+  color: #373A3C;
+  font-weight: 400;
+  font-size: 0.9rem;
+  padding-left: 9rem;
+  padding-right: 3rem;
+  padding-top: 2rem;
+  line-height: 2.5;
+}
+
+.caja {
+  padding-left: 4rem;
+  padding-right: 4rem;
+}
+
+.experiencia {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+  font-size: 3rem;
+  color: #373A3C;
+  }
+
+.card {
+  border-color: #DDDDDD;
+}
+
+i {
+  color: #2A836D;
+}
+
+.boton {
+  color: #2A836D;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+.rails {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 600;
+  color: #373A3C;
+  font-size: 1.5rem;
+}
+
+.tiempo {
+  font-weight: 300;
+  color: #373A3C;
+  font-size: 1.3rem;
+}
+
+.card-title {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 400;
+  font-size: 1.4rem;
+  color: #373A3C;
+  padding-bottom: 0.5rem;
+}
+
+.card-text {
+  font-weight: 300;
+  font-size: 1rem;
+  color: #373A3C;
+}
+
+.icons-section ul li, .texto, .foto {
+ display: inline-block;
+}
+
+.violeta {
+  background-color: #2A836D;
+}
+
+
+ul {
+ list-style-type: none;
+}
+
+.final {
+  font-family: 'Oswald', sans-serif;
+  font-weight: 700;
+}
+
+.grande {
+ font-family: 'Oswald', sans-serif;
+ font-weight: 400;
+ font-size: 1.4rem;
+ color: #373A3C;
+}
+
+.subtitulo {
+color: #373A3C;
+font-weight: 400;
+text-align: center;
+font-size: 1.4rem;
+line-height: 2;
+}
+
+.iguana-uno {
+  width: 95%;
+  vertical-align: middle;
+}
+
+.cabana {
+  width: 80%;
+  vertical-align: middle;
+}
+
+.detalle {
+  width: 95%;
+  vertical-align: middle;
+  padding-left: 8rem;
+}
